@@ -1,4 +1,4 @@
-# my-promise
+# MyPromise
 
 My [Promises/A+ Spec](https://promisesaplus.com) promise implement
 
